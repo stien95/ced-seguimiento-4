@@ -33,6 +33,6 @@ public class Main {
         }
         System.out.println("Ingrese el número S:");
         int s = sc.nextInt();
-        System.out.println(findSubArr(arr, s));
+        System.out.println(suma(arr, s));
     }
 }
